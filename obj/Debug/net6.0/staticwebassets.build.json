@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B28uqzaf6hYDbl28RQkJ0sNnAZdknOE7EGQT1q28ufo=",
+  "Source": "StepIn.Services.CouponAPI",
+  "BasePath": "_content/StepIn.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
